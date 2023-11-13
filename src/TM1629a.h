@@ -1,7 +1,7 @@
 /*!
  * @file TM1629a.h
- * @brief Arduino library for interface with TM1629a chip. 
- * @n read buttons (untested), switch leds (untested), display on 7segment (only tested on 10 of them,).
+ * @brief Arduino library for interface with TM1629a chip based on dvarrel's TM1638 Library. 
+ * @n read buttons (untested), switch leds (untested), display on 7segment (only tested on 10 of them).
  * @author Marcelo Hernandez
  * @version  V0.1
  * @date  2023-11-13
